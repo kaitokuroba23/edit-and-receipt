@@ -1,0 +1,4 @@
+C:\Users\joser\Documents\code\GUI\RTU\RTU\x64\Debug\RTU.vcxproj.AssemblyReference.cache
+C:\Users\joser\Documents\code\GUI\RTU\RTU\x64\Debug\RTU.StudentForm.resources
+C:\Users\joser\Documents\code\GUI\RTU\RTU\x64\Debug\RTU.vcxproj.GenerateResource.cache
+C:\Users\joser\Documents\code\GUI\RTU\RTU\x64\Debug\RTU.Receiptform.resources
